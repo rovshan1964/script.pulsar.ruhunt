@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.pulsar.ruhunt" name="Ruhunt.Pulsar" version="0.0.1" provider-name="HAL9000">
     <requires>
-        <import addon="xbmc.python" version="2.12.0"/>
+        <import addon="xbmc.python" version="2.19.0"/>
         <import addon="plugin.video.pulsar" version="0.4.0"/>
     </requires>
     <extension point="xbmc.python.script" library="main.py">
